@@ -1,0 +1,5 @@
+default_configuration:
+    project_type: CMake
+    cmake_package_name: GTest
+    staged: true
+
